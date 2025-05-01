@@ -1,6 +1,4 @@
 import React, { useState } from "react";
-import Click from "./Click";
-import CardText from "./CardText";
 import Task from "../task/Task";
 
 const Card = (props) => {
