@@ -5,9 +5,9 @@ const Board_Main = () => {
   return (
     <div>
         Board_Main
-        <Card />
-        <Card />
-        <Card />
+        <Card label="To Do" />
+        <Card label="In Progress"/>
+        <Card label="Done"/>
     </div>
   )
 }
